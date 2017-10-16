@@ -1,0 +1,2 @@
+# oSound-app
+app side 
